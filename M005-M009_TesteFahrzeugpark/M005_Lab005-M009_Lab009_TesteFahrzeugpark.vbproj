@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TesteFahrzeugpark</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\M005-M009_Fahrzeugpark\M005_Lab005-M009_Lab009_Fahrzeugpark.vbproj" />
+  </ItemGroup>
+
+</Project>
