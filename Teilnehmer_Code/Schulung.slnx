@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="ButtonKollision/ButtonKollision.vbproj" Id="ef5a17d5-1b2e-4cb3-bece-df6e564f60ae" />
+  <Project Path="Delegates/Delegates.vbproj" Id="f495b9e0-b58c-417c-8b7a-41a165b1214c" />
+  <Project Path="Fahrzeugpark/Fahrzeugpark.vbproj" Id="5c9a44af-0c69-4b3e-a7c4-48ef91b33e1c" />
+  <Project Path="JSON/JSON.vbproj" Id="df3ab17e-b8ef-4564-9c32-b71facd0d827" />
+  <Project Path="Lab002/Lab002.vbproj" />
+  <Project Path="Lab003/Lab003.vbproj" />
+  <Project Path="Lab004/Lab004.vbproj" />
+  <Project Path="Lab005/Lab005.vbproj" Id="1fbb4161-e27a-47e9-b05d-48c9ef78d058" />
+  <Project Path="Schulung/Schulung.vbproj" />
+  <Project Path="Teste_Fahrzeugpark/Teste_Fahrzeugpark.vbproj" Id="d6da924a-d3d1-407c-bd29-76612d6eafef" />
+  <Project Path="TestLab/TestLab.vbproj" Id="5adce582-5eb6-4a9e-a671-653a7b3c5205" />
+</Solution>
